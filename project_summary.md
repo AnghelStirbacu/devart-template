@@ -36,4 +36,3 @@ function test() {
 ![Example Image](../project_images/20120412-221738-sunflow.png?raw=true "Example Image")
 
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
