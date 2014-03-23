@@ -1,5 +1,5 @@
 # Project Title
-Insert the name of your project
+Wear you all the time
 
 ## Authors
 Anca Stirbacu
