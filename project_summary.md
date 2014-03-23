@@ -2,8 +2,8 @@
 
 
 ##Authors
-Anca Stirbacu
-Vlad Anghel
+Anca Stirbacu http://www.roselect.ro/ancastirbacu
+Vlad Anghel http://vladanghel.com/
 
 ## Description
 Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
