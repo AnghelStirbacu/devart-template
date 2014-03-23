@@ -26,8 +26,14 @@ function test() {
 [Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
+![Example Image](../project_images/20120412-004149-sunflow.png?raw=true "Example Image")
+![Example Image](../project_images/20120411-182237-sunflow.png?raw=true "Example Image")
+![Example Image](../project_images/20120412-014213-sunflow.png?raw=true "Example Image")
+![Example Image](../project_images/20120412-025335-sunflow.png?raw=true "Example Image")
+![Example Image](../project_images/20120412-040413-sunflow.png?raw=true "Example Image")
+![Example Image](../project_images/20120412-193635-sunflow.png?raw=true "Example Image")
+![Example Image](../project_images/20120412-200147-sunflow.png?raw=true "Example Image")
+![Example Image](../project_images/20120412-221738-sunflow.png?raw=true "Example Image")
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
